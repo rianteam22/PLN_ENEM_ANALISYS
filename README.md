@@ -1,6 +1,6 @@
 # PLN_ENEM_ANALISYS
 
-Este código é uma implementação de um classificador de texto que visa identificar se um texto pertence à categoria "IA" (Inteligência Artificial) ou à categoria "HUMANO".
+Este código é uma implementação de um classificador de redações do ENEM que visa identificar se um texto pertence à categoria "IA" (Inteligência Artificial) ou à categoria "HUMANO".
 
 ### Importação e instalação de bibliotecas:
 
