@@ -9,6 +9,11 @@ Importa as bibliotecas necessárias, como pandas, spacy, random, numpy, e outras
 Monta o Google Drive para acessar os arquivos de dados.
 
 Faz o download do modelo de linguagem em português para o spaCy.
+#### Sobre o spaCy:
+
+**Spacy** (https://spacy.io/usage): Utiliza a função spacy.blank para criar uma pipeline em branco para português ('pt')
+
+
 
 ### Carregamento da base de dados de treino e teste:
 Lê os conjuntos de dados de treino (TrainENEM.csv) e teste (TestENEM.csv) usando o Pandas.
