@@ -1,4 +1,6 @@
 # PLN_ENEM_ANALISYS
+**LINK DO NOTEBOOK**
+ - https://colab.research.google.com/drive/1W_8MZTPCfqG5cDI24fdqmFjPdEqhKYT2?usp=sharing
 
 Este código é uma implementação de um classificador de redações do ENEM que visa identificar se um texto pertence à categoria "IA" (Inteligência Artificial) ou à categoria "HUMANO".
 
