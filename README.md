@@ -6,7 +6,6 @@ Este repositório contém um projeto de Processamento de Linguagem Natural (PLN)
 
 O projeto está disponível em um Jupyter Notebook hospedado no Google Colab. Para acessar e executar o código, clique no link abaixo:
 
-- [Notebook PLN_ENEM_ANALYSIS no Google Colab](https://colab.research.google.com/drive/1W_8MZTPCfqG5cDI24fdqmFjPdEqhKYT2?usp=sharing)
 
 ## Configuração Inicial
 
